@@ -4,6 +4,11 @@
     ViewData["Title"] = "Home page";
 }
 
+@section AddToHead {
+    <!-- Custom styles for this page -->
+    <link href="lib/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+}
+
 <div class="text-center">
 
     <div class="row">
@@ -51,10 +56,64 @@
             </div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h4>Bevételek</h4>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTableBevetelek" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Jogcím</th>
+                                    <th>2019</th>
+                                    <th>2020</th>
+                                    <th>Változás</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h4>Kiadások</h4>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTableKiadasok" width="100%" cellspacing="0">
+                            <thead>
+                            <tr>
+                                <th>Jogcím</th>
+                                <th>2019</th>
+                                <th>2020</th>
+                                <th>Változás</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!-- Page level plugins -->
-<script src="lib/chart.js/Chart.min.js"></script>
+@section Scripts {
+    <!-- Page level plugins -->
+    <script src="lib/chart.js/Chart.min.js"></script>
 
-<!-- Page level custom scripts -->
-<script src="js/chart-pie-index-main.js"></script>
+    <!-- Page level custom scripts -->
+    <script src="js/chart-pie-index-main.js"></script>
+    <script src="js/datatables-index.js"></script>
+}
