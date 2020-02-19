@@ -3,3 +3,11 @@
     background-color: #886FB2 !important;
     color: white
 }
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-family: "Roboto Slab";
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+}

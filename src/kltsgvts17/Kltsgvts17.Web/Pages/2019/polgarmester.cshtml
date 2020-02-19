@@ -1,0 +1,52 @@
+﻿@page
+@model Kltsgvts17.Web.polgarmesterModel
+@{
+    ViewData["Title"] = "polgarmester";
+}
+
+@section AddToHead {
+    <!-- Custom styles for this page -->
+    <link href="~/lib/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+}
+
+<div class="text-center">
+
+    <h1 class="align-content-md-start">Polgármesteri keret 2019</h1>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow mb-4">
+                <div class="card-header">
+                    <h3>4. negyedév</h3>
+                </div>
+                <div class="card-body">
+                    <b>Az alábi táblázatban a polgármester által 2019. utolsó negyedévében kiosztott támogatások láthatóak.</b>
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTablePolgarmester" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Címzettek</th>
+                                    <th>Megvalósított feladat</th>
+                                    <th>Összeg</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Page level plugins -->
+    <!-- Page level custom scripts -->
+    <script src="~/js/datatables-2019-polgarmester.js"></script>
+}
+
+

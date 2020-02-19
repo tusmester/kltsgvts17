@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Kltsgvts17.Web</title>
+    <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     @*<link rel="stylesheet" href="~/css/site.css" />*@
 
     <!-- Custom fonts for this template-->
-    <link href="lib/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="~/lib/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
 
     <!-- Custom styles for this site-->
     <link rel="stylesheet" href="~/css/site-custom.css" />
@@ -26,7 +26,9 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Momentum Rákosmente</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">
+                    <img src="~/img/mm_logo_fektetett_atlatszo.png" class="img-fluid" alt="Momentum Rákosmente">
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -38,6 +40,13 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/2020">2020</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Kapcsolat">Kapcsolat</a>
                         </li>
                     </ul>
                 </div>
@@ -61,14 +70,14 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     <!-- Core plugin JavaScript-->
-    <script src="lib/jquery-easing/jquery.easing.min.js"></script>
+    <script src="~/lib/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Other plugins -->
-    <script src="lib/datatables/jquery.dataTables.min.js"></script>
-    <script src="lib/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="~/lib/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/lib/datatables/dataTables.bootstrap4.min.js"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="js/sb-admin-2.min.js"></script>
+    <script src="~/js/sb-admin-2.min.js"></script>
 
     @RenderSection("Scripts", required: false)
 </body>

@@ -16,7 +16,8 @@ var myPieChart = new Chart(ctx, {
       hoverBorderColor: "rgba(234, 236, 244, 1)",
     }],
   },
-  options: {
+    options: {
+    animation: false,
     maintainAspectRatio: false,
     tooltips: {
       backgroundColor: "rgb(255,255,255)",
@@ -32,6 +33,6 @@ var myPieChart = new Chart(ctx, {
         display: true,
         position: 'right'
     },
-    cutoutPercentage: 5,
+    cutoutPercentage: 0,
   },
 });
