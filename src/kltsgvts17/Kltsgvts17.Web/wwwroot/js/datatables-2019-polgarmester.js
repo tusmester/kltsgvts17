@@ -8,8 +8,8 @@ $(document).ready(function() {
         //ordering: false,
         //info: false
         "columns": [            
-            null,
-            null,
+            { className: "dt-left" },
+            { className: "dt-left" },
             { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', ' Ft') }
         ]
     });
