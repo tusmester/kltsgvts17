@@ -5,7 +5,13 @@ $(document).ready(function() {
         paging: false,
         searching: false,
         ordering: false,
-        info: false
+        info: false,
+        "columns": [
+            { "width": "40%" },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') }
+        ]
     });
 
     $('#dataTableKiadasok').DataTable({
@@ -13,6 +19,12 @@ $(document).ready(function() {
         paging: false,
         searching: false,
         ordering: false,
-        info: false
+        info: false,
+        "columns": [
+            { "width": "40%" },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', '') }
+        ]
     });
 });

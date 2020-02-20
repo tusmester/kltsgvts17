@@ -10,7 +10,7 @@ $(document).ready(function() {
         "columns": [            
             null,
             null,
-            { "width": "20%" },
+            { "width": "20%", render: $.fn.dataTable.render.number(',', '.', 0, '', ' Ft') }
         ]
     });
 });
