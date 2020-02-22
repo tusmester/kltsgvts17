@@ -4,25 +4,64 @@
     ViewData["Title"] = "Rákosmente költségvetése 2019";
 }
 
-@section AddToHead {
-    <!-- Custom styles for this page -->
-    <link href="lib/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
-}
+    <div class="text-center">
 
-<div class="text-center">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="display-4">Rákosmente költségvetése 2019</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h3 class="display-4">4. negyedév</h3>
+            </div>
+        </div>
+        <div class="row">
 
-    <div class="row">
- 
+            <div class="col-lg-6">
+
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h4>Polgármester által kiosztott támogatások</h4>
+                    </div>
+                    <div class="card-body">
+                        <p>
+                            <a href="/2019/polgarmester" class="btn btn-success btn-icon-split">
+                                <span class="icon text-white-50">
+                                    <i class="fas fa-check"></i>
+                                </span>
+                                <span class="text">Polgármesteri keret</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h4>Képviselők által kiosztott támogatások</h4>
+                    </div>
+                    <div class="card-body">
+                        <p>
+                            <a href="/2019/kepviselok" class="btn btn-success btn-icon-split">
+                                <span class="icon text-white-50">
+                                    <i class="fas fa-check"></i>
+                                </span>
+                                <span class="text">Képviselői keret</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+        </div>
     </div>
 
-    <div class="row">
-
-    </div>
-</div>
-
-@section Scripts {
-    <!-- Page level plugins -->
-
-    <!-- Page level custom scripts -->
-    <script src="js/datatables-index.js"></script>
-}
+        @section Scripts {
+            <!-- Page level plugins -->
+            <!-- Page level custom scripts -->
+        }
