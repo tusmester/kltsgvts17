@@ -4,11 +4,54 @@
 }
 
 @section AddToHead {
-    <!-- Custom styles for this page -->
-    <link href="lib/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+    <!-- Custom styles for this page -->    
+    <link rel="stylesheet" href="~/css/site-custom-2020.css" />
 }
 
-<div class="text-center">
+<div class="text-center col-xl">
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="display-4">Rákosmente költségvetése 2020</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h4>Kiadások (ezer Forint)</h4>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTableKiadasokFull" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Előirányzat</th>
+                                    <th>Személyi juttatások</th>
+                                    <th>Munkáltatót terhelő járulékok</th>
+                                    <th>Dologi kiadások</th>
+                                    <th>Ellátottak pénzbeli juttatásai</th>
+                                    <th>Egyéb működési célú kiadások</th>
+                                    <th>Beruházások</th>
+                                    <th>Felújítások</th>
+                                    <th>Egyéb felhalmozási célú kiadások</th>
+                                    <th>Költségvetési kiadások</th>
+                                    <th>Finanszírozás</th>
+                                    <th>Összesen</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
 
     <div class="row">
  
@@ -23,5 +66,5 @@
     <!-- Page level plugins -->
 
     <!-- Page level custom scripts -->
-    <script src="js/datatables-index.js"></script>
+    <script src="~/js/datatables-2020.js"></script>
 }
