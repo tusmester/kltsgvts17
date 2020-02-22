@@ -1,0 +1,922 @@
+﻿{
+  "data": [
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Kipp Kopp bölcsőde - játékok beszerzésének költségei, 2 db öltözőpad beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "Rákosmenti Összefogás Óvoda",
+      "feladat": "Téli ünnepek költségeinek támogatása",
+      "osszeg": "350000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Bartók Béla Alapfokú Művészeti Iskola - őszi diáktábor költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Rendezvényekre biztosított torták, aprósütemények költségei",
+      "osszeg": "212000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Kutyafuttató területére kutyajáték telepítésének költségei",
+      "osszeg": "1071000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "Rákosmenti Hófehérke Óvoda",
+      "feladat": "Játékok, eszközök, tárgyak, édességek költségei, műsorok szervezésének költségei",
+      "osszeg": "117000",
+      "valasztokerulet": "1"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Kis u. 1. és Pesti út 39. közötti részen parkoló kialakításának támogatása",
+      "osszeg": "2000000",
+      "valasztokerulet": "2"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Gólyafészek Bölcsőde - játékok, könyvek, eszközök beszerzésének költségei",
+      "osszeg": "200000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Rákoskeresztúri Evangélikus Egyházközség",
+      "feladat": "Adventi rendezvény költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Csibe Bölcsőde - játékok megújításának, fejlesztésének költségei",
+      "osszeg": "250000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Budapest-Rákosligeti Magyarok Nagyasszonya Plébánia",
+      "feladat": "2020. évi Katolikus Farsang program költségeinek támogatása",
+      "osszeg": "90000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Kőrösi Csoma Sándor Általános Iskola - Iskola épületei közötti udvari terület lehatárolásának és bekerítésének költségei",
+      "osszeg": "850649",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Joy Dance Tánccsoport Egyesület",
+      "feladat": "Egyesület működésének támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Rákoskeresztúri közterületek fejlesztésének támogatása",
+      "osszeg": "109000",
+      "valasztokerulet": "3"
+    },
+    {
+      "cimzettek": "Érdi Muay Thai Boksz Sportegyesület",
+      "feladat": "Fight Night Show Promotion - Jótékonysági rendezvény költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Gólyafészek Bölcsőde - Játékok, mesekönyvek, mozgásfejlesztő eszközök beszerzésének költségei",
+      "osszeg": "200000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Mirr Murr Bölcsőde - fejlesztőeszközök beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmenti Aprófalva Óvoda",
+      "feladat": "Laptop beszerzésének költségei",
+      "osszeg": "197000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Galgóczy Árpád versfordításokat tartalmazó kötetének megjelentetési költségei",
+      "osszeg": "80000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "40000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "40000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "40000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "30000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Joy Dance Tánccsoport Egyesület",
+      "feladat": "Ifjúsági Latin Magyar Bajnokság rendezvény nevezési költségei, továbbképzések költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Társasház Pesti út 160.",
+      "feladat": "Faültetés költségei, eszközök és felszerelések beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Parkrendezés, faültetések költségeinek támogatása",
+      "osszeg": "1000000",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Bajcsy-Zsilinszky Kórház XVII. ker. Rendelőintézete",
+      "feladat": "Egészségnap rendezvény többletköltségeinek támogatása",
+      "osszeg": "22700",
+      "valasztokerulet": "4"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Liszt Ferenc Vegyeskar jubileumi koncertjének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Galgóczy Árpád versfordításokat tartalmazó kötetének megjelentetési költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Nyugdíjas Klub működésének támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Mikulásfutás és egyéb programok támogatása, működési költségek támogatása",
+      "osszeg": "200000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Kiállítások költségei, működési költségek",
+      "osszeg": "200000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Érsek Tibor novelláskötetének megjelentetési költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Környezetvédelmi feladatok ellátásának költségei, működési költségek",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Polgári Kör karácsonyi kiadványának költségei, működési költségek",
+      "osszeg": "150000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez szükséges eszközök beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Rákosmenti Hétszínvirág Óvoda",
+      "feladat": "Udvar felújításának támogatása",
+      "osszeg": "500000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Közterület faültetés költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "5"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Galgóczy Árpád versfordításokat tartalmazó kötetének megjelentetési költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Nyugdíjas Klub működésének támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákoshegyi Lisieux-i Szent Teréz Plébánia",
+      "feladat": "Kiadvány megjelentetésének költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Czimra Gyula Általános Iskola - Komolyzenei programok látogatásának költségei",
+      "osszeg": "120000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Kulturált Légiközlekedésért Egyesület",
+      "feladat": "Jogi képviselet biztosításának költségei",
+      "osszeg": "44450",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákosmenti Életfa Humán Segítő Szolgálat",
+      "feladat": "Karácsonyi programok költségei",
+      "osszeg": "40000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákosmenti Hétszínvirág Óvoda",
+      "feladat": "Udvar fejlesztésének költségei",
+      "osszeg": "500000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákoshegyi Bartók Zeneház Közalapítvány",
+      "feladat": "Fürdőszoba átalakításának támogatása, kertészeti munkálatok költségei",
+      "osszeg": "500000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákoshegyi Polgári Kör",
+      "feladat": "Parkok gondozásának, munkálatainak költségei, kertészeti eszközök beszerzésének költségei",
+      "osszeg": "395000",
+      "valasztokerulet": "6"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "14000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Rákosmenti Egyesített Bölcsődék",
+      "feladat": "Napraforgó Bölcsőde - Logikai készségfejlesztő játékok, egyéb játékok és eszközök beszerzésének költségei",
+      "osszeg": "200000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Rákoscsabáért Egyesület",
+      "feladat": "Ágaprító beszerzésének költségei",
+      "osszeg": "52000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "30000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "XVII. Kerületért Egyesület",
+      "feladat": "Faültetési program költségei, zöldfelület gondozásának költségei",
+      "osszeg": "1400000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "30000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Kaszap István Alapítvány",
+      "feladat": "Az alapító okiratban megfogalmazott célok megvalósításának költségei, egyéb működési költségek",
+      "osszeg": "124000",
+      "valasztokerulet": "7"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Kossuth Lajos Általános Iskola - Tornakupa megrendezésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Októberi elnöki ülés terembérleti díjának költségei és egyéb kiadások költségei",
+      "osszeg": "19125",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Szabadságharc megemlékezés hangosításának költségei",
+      "osszeg": "10000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Karácsonyi ünnepségen fellépő zenekar költségei",
+      "osszeg": "25000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Rendezvényekre címeres kitűzők költségei",
+      "osszeg": "30000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Lemaradás Turisztikai, Sport és Szabadidő Egyesület",
+      "feladat": "Lecsófesztivál többletköltségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Kerti Levél című kiadvány 2019. év végi illetve 2020 áprilisig történő megjelentetésének költségei",
+      "osszeg": "519229",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Mindenki karácsonya program költségei",
+      "osszeg": "300000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - 2020. évi Magyar Kultúra Napja gyermekprogram költségeinek támogatása",
+      "osszeg": "100000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Kossuth Lajos Általános Iskola - Nyelvi oktatást segítő notebook és 2db cd-s magnó beszerzésének költségei",
+      "osszeg": "148500",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákosmenti Százszorszép Óvoda",
+      "feladat": "Karácsonyi játékok, égősorok beszerzésének költségei",
+      "osszeg": "300000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "30000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Választókerületi járda program támogatása",
+      "osszeg": "173000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "15000",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Kártyanaptár beszerzésének költségei",
+      "osszeg": "29800",
+      "valasztokerulet": "8"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Gyermekelőadások költségeinek támogatása",
+      "osszeg": "120000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Nagycsaládosok támogatása programokon történő részvételhez",
+      "osszeg": "30000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Kerti kölyökkuckó színház költségeinek támogatása",
+      "osszeg": "100000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Kézműves foglalkozások költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Éves kiállítások költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Vigyázó Sándor Művelődési Központ",
+      "feladat": "Rákoskerti Művelődési Ház - Felnőttek részére koncert és kisszínház költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Rendezvényekre címeres kitűzők költségei",
+      "osszeg": "90650",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Októberi elnöki ülés költségei",
+      "osszeg": "19125",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Karácsonyi ünnepségen fellépő zenekar költségei",
+      "osszeg": "25000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Szabadságharc megemlékezés hangosításának költségei",
+      "osszeg": "10000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Lemaradás Turisztikai, Sport és Szabadidő Egyesület",
+      "feladat": "Lecsófesztivál többletköltségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Kerti Levél című kiadvány 2019. év végi illetve 2020 áprilisig történő megjelentetésének költségei",
+      "osszeg": "519229",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Facsemeték beszerzésének és ültetésének költségei, kiszáradt fák kivágásának költségei",
+      "osszeg": "577405",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "100 tő fagyalbokor beszerzésének költségei",
+      "osszeg": "13000",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Kártyanaptár beszerzésének költségei",
+      "osszeg": "29800",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Közterületi utcabútor, Vida- dombi játszótér kerítés és információs tábla felújítási költségei",
+      "osszeg": "165791",
+      "valasztokerulet": "9"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Keszeg és Kalmár utca járda építésének és árok tisztításának költségei",
+      "osszeg": "1300000",
+      "valasztokerulet": "10"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Szabadság Sugáruti Általános Iskola - Mikulás és Karácsony ünnepek költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "10"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Zrínyi Miklós Általános Iskola - sportmez beszerzésének költségei, karácsonyi koncert (énekkar) költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "10"
+    },
+    {
+      "cimzettek": "Rákosmenti Piroska Óvoda",
+      "feladat": "Mikulás és Karácsony ünnepek költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "10"
+    },
+    {
+      "cimzettek": "Rákoscsabai Jókai Mór Református Általános Iskola",
+      "feladat": "Kültéri játékok beszerzésének és telepítésének költségei (csúszdás vár, mérleghinta, mókuskerék)",
+      "osszeg": "250000",
+      "valasztokerulet": "10"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Lombzsák beszerzésének költségei",
+      "osszeg": "85000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Szabadság Sugárúti Általános Iskola - Karácsonyi és Mikulás ünnepségek költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Közháló17 Egyesület",
+      "feladat": "Egyesület programjainak és működési költségeinek támogatása",
+      "osszeg": "150000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Vigyázó Ferenc Művelődési Társaság",
+      "feladat": "Galgóczy Árpád versfordításokat tartalmazó kötetének megjelentetési költségei",
+      "osszeg": "70000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "60000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "45000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Rákoscsabai Jókai Mór Református Általános Iskola",
+      "feladat": "Kültéri játékok beszerzésének és telepítésének költségei (csúszdás vár, mérleghinta, mókuskerék)",
+      "osszeg": "1390000",
+      "valasztokerulet": "11"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Diadal Úti Általános Iskola - Budapest Párbajtőr Világbajnokság költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákosmente Gyermekvilága Közhasznú Alapítvány",
+      "feladat": "Programok költségeinek támogatása",
+      "osszeg": "100000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákosmenti Robogó Óvoda",
+      "feladat": "Fejlesztőjátékok, tárgyi eszközök beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Kaszap István Alapítvány",
+      "feladat": "Rászoruló családok részére segélycsomagok juttatásának költségei",
+      "osszeg": "30000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Budapest-Rákosligeti Magyarok Nagyasszonya Plébánia",
+      "feladat": "Asztalitenisz verseny megrendezésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákosmenti Mézeskalács Óvoda",
+      "feladat": "Intézmény bővítésének 10. évfordulója megünnepléséhez emblémás pólók költségeinek támogatása",
+      "osszeg": "200000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Gregor József Általános Iskola - oktatást segítő eszközök beszerzésének költségei (1db projektor, 2db kézilabda kapuháló)",
+      "osszeg": "150000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Budapest-Rákosligeti Magyarok Nagyasszonya Plébánia",
+      "feladat": "Rákosmenti Katolikus Farsang megrendezésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákoscsaba Főplébánia",
+      "feladat": "Műemléktemplom működési és felújítási költségei",
+      "osszeg": "200000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákoskerti Polgári Kör",
+      "feladat": "Kártyanaptár beszerzésének költségei",
+      "osszeg": "29800",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Jászdózsa utca 38 szám előtti járda felújításának támogatása",
+      "osszeg": "790000",
+      "valasztokerulet": "12"
+    },
+    {
+      "cimzettek": "Rákoscsaba-Újtelepért Egyesület",
+      "feladat": "Berky Lili Nyugdíjas Klub - 2019. évi programok költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Magyar Szakszervezeti Szövetség",
+      "feladat": "2019. év végi rendezvények költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Érdi Muay Thai Boksz Sportegyesület",
+      "feladat": "Fight Night Show Promotion - Jótékonysági rendezvény költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Diadal Úti Általános Iskola - Budapest Párbajtőr Világbajnokság költségeinek támogatása",
+      "osszeg": "50000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákosmenti Robogó Óvoda",
+      "feladat": "Játékok, eszközök beszerzésének költségei",
+      "osszeg": "150000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Kelet-Pesti Tankerületi Központ",
+      "feladat": "Újlak Utcai Általános Iskola - Újlak Kupa terembérletének költségei",
+      "osszeg": "210000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Pál Apostol Katolikus Általános Iskola és Gimnázium",
+      "feladat": "Természettudományi szertár fejlesztéséhez eszközök beszerzésének költségei",
+      "osszeg": "200000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákoscsaba Főplébánia",
+      "feladat": "Műemléktemplom működési és felújítási költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákoscsaba-Újtelepért Egyesület",
+      "feladat": "Újtelepi Ulti Csoport versenyéhez eszközök beszerzésének költségei",
+      "osszeg": "30000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "",
+      "feladat": "Piski utcai járda felújítási program támogatása",
+      "osszeg": "910000",
+      "valasztokerulet": "13"
+    },
+    {
+      "cimzettek": "Rákosmenti Adományház Egyesület",
+      "feladat": "Működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "XVII. Kerületi Önkormányzat Köztisztviselők Sportegyesülete",
+      "feladat": "2019. évi működési költségek",
+      "osszeg": "50000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Kárpátia Lovasudvar Egyesület",
+      "feladat": "Eszközök beszerzésének költségei",
+      "osszeg": "50000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Érdi MuayThai Boksz Sportegyesület",
+      "feladat": "Fight Night Show Promotion - Jótékonysági rendezvény költségei",
+      "osszeg": "80000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Rákosmenti Robogó Óvoda",
+      "feladat": "Játékok beszerzésének költségei, adventi kézműves program költségei, Kolompos Együttes műsorának költségei",
+      "osszeg": "500000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Újjászületés Rehabilitációs Alapítvány",
+      "feladat": "Működési költségek, programok költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Rákosmenti Zenebarátok Egyesülete",
+      "feladat": "2020. év eleji programok költségei, eszközök beszerzésének költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Rákoscsaba Főplébánia",
+      "feladat": "Műemléktemplom működési és felújítási költségei",
+      "osszeg": "100000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "XVII. Kerületi Közösségi Támogató Hálózat Közhasznú Egyesület",
+      "feladat": "2020. évi programok és működési költségek támogatása",
+      "osszeg": "80000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "ZÖLD XVII Környezetvédelmi, Természetvédelmi és Városfejlesztési Egyesület",
+      "feladat": "2020.évi működési költségek támogatása",
+      "osszeg": "110000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "XVII. Kerületért Egyesület",
+      "feladat": "Körzetben végzendő faültetési program támogatása",
+      "osszeg": "430000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Rákosligeti Református Egyházközség",
+      "feladat": "Templom és ingatlan felújítási munkálatok támogatása",
+      "osszeg": "200000",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Budapest Dísz és Közvilágítási Kft",
+      "feladat": "Közvilágítási lámpatest felszerelésének költségei",
+      "osszeg": "112903",
+      "valasztokerulet": "14"
+    },
+    {
+      "cimzettek": "Társasház Gátfutó utca 4.",
+      "feladat": "Tetőjavítás költségei",
+      "osszeg": "36700",
+      "valasztokerulet": "14"
+    }
+  ]
+}
