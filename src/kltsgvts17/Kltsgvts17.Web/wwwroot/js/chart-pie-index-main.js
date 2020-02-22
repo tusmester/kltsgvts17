@@ -36,3 +36,22 @@ var myPieChart = new Chart(ctx, {
     cutoutPercentage: 0,
   },
 });
+
+// Chart hack: hide legend on small screens -------------------------------------------------------------------
+
+var resizeId;
+$(window).resize(function () {
+    clearTimeout(resizeId);
+    resizeId = setTimeout(afterResizing, 100);
+});
+
+function afterResizing() {
+    var canvasheight = document.getElementById("myPieChart").height;
+    if (canvasheight <= 250) {
+        window.myPieChart.options.legend.display = false;
+    }
+    else {
+        window.myPieChart.options.legend.display = true;
+    }
+    window.myPieChart.update();
+}
