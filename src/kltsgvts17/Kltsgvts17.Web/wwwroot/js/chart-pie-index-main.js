@@ -37,6 +37,8 @@ var myPieChart = new Chart(ctx, {
   },
 });
 
+afterResizing();
+
 // Chart hack: hide legend on small screens -------------------------------------------------------------------
 
 var resizeId;
@@ -46,8 +48,8 @@ $(window).resize(function () {
 });
 
 function afterResizing() {
-    var canvasheight = document.getElementById("myPieChart").height;
-    if (canvasheight <= 250) {
+    var canvasheight = document.getElementById("myPieChart").clientWidth;
+    if (canvasheight <= 350) {
         window.myPieChart.options.legend.display = false;
     }
     else {

@@ -16,3 +16,8 @@
     background-color: #8E6ECF;
     border-color: #8E6ECF;
 }
+
+.container.custom-body {
+    /*because of the fixed navbar*/ 
+    padding-top: 90px !important;
+}
