@@ -28,8 +28,8 @@
                 <!-- Basic Card Example -->
                 <div class="card mb-4">
                     @*<div class="card-header">
-                        Az alábbi linken a részletes költségvetést böngészheti
-                    </div>*@
+                            Az alábbi linken a részletes költségvetést böngészheti
+                        </div>*@
                     <div class="card-body">
                         <p>
                             <a href="/2020" class="btn btn-success btn-icon-split">
@@ -66,63 +66,80 @@
         </div>
     </div>
 
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="card shadow mb-4">
-                    <!-- Card Header - Dropdown -->
-                    <div class="card-header">
-                        <h4>Bevételek (ezer Forint)</h4>
-                    </div>
-                    <!-- Card Body -->
-                    <div class="card-body">
-                        <div class="table-responsive">
-                            <table class="table table-bordered" id="dataTableBevetelek" width="100%" cellspacing="0">
-                                <thead>
-                                    <tr>
-                                        <th>Jogcím</th>
-                                        <th>2019</th>
-                                        <th>2020</th>
-                                        <th>Változás</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            </table>
-                        </div>
+    <div class="row">
+        <div class="col-lg-16">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h5>
+                        Ezen az oldalon a XVII. kerületi önkormányzat költségvetésének
+                        fontosabb elemei között tud böngészni, keresni. A <a href="https://momentum.hu" target="_blank">Momentumban</a>
+                        azon dolgozunk, hogy az önkormányzat munkája közérthető, átlátható legyen,
+                        és minél többen vegyenek részt közös dolgaink alakításában.
+                    </h5>
+                </div>
+                <!-- Card Body -->                
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h4>Bevételek (ezer Forint)</h4>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTableBevetelek" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Jogcím</th>
+                                    <th>2019</th>
+                                    <th>2020</th>
+                                    <th>Változás</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </table>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="card shadow mb-4">
-                    <!-- Card Header - Dropdown -->
-                    <div class="card-header">
-                        <h4>Kiadások  (ezer Forint)</h4>
-                    </div>
-                    <!-- Card Body -->
-                    <div class="card-body">
-                        <div class="table-responsive">
-                            <table class="table table-bordered" id="dataTableKiadasok" width="100%" cellspacing="0">
-                                <thead>
-                                    <tr>
-                                        <th>Jogcím</th>
-                                        <th>2019</th>
-                                        <th>2020</th>
-                                        <th>Változás</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            </table>
-                        </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header">
+                    <h4>Kiadások  (ezer Forint)</h4>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTableKiadasok" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>Jogcím</th>
+                                    <th>2019</th>
+                                    <th>2020</th>
+                                    <th>Változás</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                        </table>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-    @section Scripts {
-        <!-- Page level plugins -->
-        <script src="lib/chart.js/Chart.min.js"></script>
+@section Scripts {
+    <!-- Page level plugins -->
+    <script src="lib/chart.js/Chart.min.js"></script>
 
-        <!-- Page level custom scripts -->
-        <script src="js/chart-pie-index-main.js"></script>
-        <script src="js/datatables-index.js"></script>
-    }
+    <!-- Page level custom scripts -->
+    <script src="js/chart-pie-index-main.js"></script>
+    <script src="js/datatables-index.js"></script>
+}
