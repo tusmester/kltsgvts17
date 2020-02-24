@@ -21,13 +21,13 @@
     <!-- Custom styles for this template-->
     <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
 
-    <!-- Custom styles for this site-->
-    <link rel="stylesheet" href="~/css/site-custom.css" />
-
     <!-- Custom styles for plugins -->
     <link href="~/lib/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
     <link href="~/lib/datatables/rowGroup.dataTables.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css" rel="stylesheet" >
+    <link href="~/css/cookiealert.css" rel="stylesheet">
+
+    <!-- Custom styles for this site-->
+    <link rel="stylesheet" href="~/css/site-custom.css" />
 
     @if (IsSectionDefined("AddToHead"))
     {
@@ -84,7 +84,7 @@
     <!-- START Bootstrap-Cookie-Alert -->
     @*https://www.cssscript.com/eu-cookie-law-notice-plugin-bootstrap-4/*@
     <div class="alert text-center cookiealert" role="alert">
-        Ez az oldal sütiket használ. <a href="#" target="_blank">Bővebben</a>
+        Ez az oldal sütiket használ.
 
         <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
             Rendben

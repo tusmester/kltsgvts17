@@ -1,6 +1,6 @@
 ﻿
 .navbar.bg-white {
-    background-color: #886FB2 !important;
+    background-color: #8E6FCE !important;
     color: white
 }
 
@@ -13,11 +13,23 @@
 }
 
 .btn-momo {
-    background-color: #8E6ECF;
-    border-color: #8E6ECF;
+    background-color: #8E6FCE;
+    border-color: #8E6FCE;
 }
 
 .container.custom-body {
     /*because of the fixed navbar*/ 
     padding-top: 90px !important;
+}
+
+
+/* Cookie alert */
+
+.cookiealert {
+    background: #8E6FCE;
+    color: white;
+}
+
+.cookiealert a {
+     color: white;
 }
