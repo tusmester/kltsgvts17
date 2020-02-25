@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using System.Net;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +21,17 @@ namespace Kltsgvts17.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<ForwardedHeadersOptions>(options =>
+            {
+                var proxy = Configuration["KnownProxies"];
+                if (string.IsNullOrEmpty(proxy) || 
+                    !IPAddress.TryParse(proxy, out var ipAddress) ||
+                    options.KnownProxies.Any(p => p.Equals(ipAddress)))
+                    return;
+
+                options.KnownProxies.Add(ipAddress);
+            });
+
             services.AddRazorPages();
         }
 
@@ -39,6 +48,12 @@ namespace Kltsgvts17.Web
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            // for proxy servers to work
+            app.UseForwardedHeaders(new ForwardedHeadersOptions
+            {
+                ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+            });
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
