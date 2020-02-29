@@ -3,7 +3,11 @@
     {
       "nev": "Környei Balázs András",
       "kepurl": "/img/kepviselok/kornyeibalazs.png",
-      "szerepkor":  "önkormányzati képviselő"
+      "szerepkor": "önkormányzati képviselő",
+      "email": "kornyei.balazs@momentum.hu",
+      "telefon": "+36-......",
+      "facebookurl": "kornyeibalazs.momentum",
+      "eletrajz": "Budapesten, Sashalmon születtem értelmiségi családba. Az általános iskola elvégzése után a Lónyay Utcai Református Gimnáziumban érettségiztem, majd a Tomori Pál Főiskola gazdálkodás és menedzsment szakán diplomáztam logisztika szakirányon."
     }
   ]
 }
