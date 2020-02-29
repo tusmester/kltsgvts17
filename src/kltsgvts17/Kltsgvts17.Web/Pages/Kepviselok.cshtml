@@ -1,0 +1,42 @@
+﻿@page
+@using Kltsgvts17.Web.Models;
+@model KepviselokModel
+@{
+    ViewData["Title"] = "Képviselők";
+}
+
+    <div class="text-center">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="display-4">XVII. kerületi képviselőnk</h1>
+            </div>
+        </div>
+
+        @foreach (var kepviselo in Model.KepviseloLista) 
+        {
+    <div class="row">
+        <div class="col-lg-3">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <img src="@kepviselo.KepUrl" class="img-fluid" alt="@kepviselo.Nev" />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-9">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3>@kepviselo.Nev</h3>
+                    <h5>@kepviselo.Szerepkor</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+        }        
+
+    </div>
+
+        @section Scripts {
+            <!-- Page level plugins -->
+            <!-- Page level custom scripts -->
+        }

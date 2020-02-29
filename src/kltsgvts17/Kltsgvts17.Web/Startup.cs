@@ -1,5 +1,6 @@
 using System.Linq;
 using System.Net;
+using Kltsgvts17.Web.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
@@ -33,6 +34,8 @@ namespace Kltsgvts17.Web
             });
 
             services.AddRazorPages();
+
+            services.AddSingleton<Kepviselok>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
