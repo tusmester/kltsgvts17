@@ -20,6 +20,27 @@
           "leiras": "[téma részletes leírása]"
         }
       ]
+    },
+    {
+      "nev": "Gergely Bálint Viktor",
+      "kepurl": "/img/kepviselok/gergelybalint.png",
+      "szerepkor": "bizottsági tag",
+      "email": "gergely.balint@momentum.hu",
+      "telefon": "+36-......",
+      "facebookurl": "gergely.balint.viktor",
+      "eletrajz": "",
+      "temak": [
+        {
+          "cim": "Első téma",
+          "url": "https://www.momentum.hu",
+          "leiras": "[téma részletes leírása]"
+        },
+        {
+          "cim": "Második téma",
+          "url": "https://www.momentum.hu",
+          "leiras": "[téma részletes leírása]"
+        }
+      ]
     }
   ]
 }
