@@ -7,7 +7,19 @@
       "email": "kornyei.balazs@momentum.hu",
       "telefon": "+36-......",
       "facebookurl": "kornyeibalazs.momentum",
-      "eletrajz": "Budapesten, Sashalmon születtem értelmiségi családba. Az általános iskola elvégzése után a Lónyay Utcai Református Gimnáziumban érettségiztem, majd a Tomori Pál Főiskola gazdálkodás és menedzsment szakán diplomáztam logisztika szakirányon."
+      "eletrajz": "Budapesten, Sashalmon születtem értelmiségi családba. Az általános iskola elvégzése után a Lónyay Utcai Református Gimnáziumban érettségiztem, majd a Tomori Pál Főiskola gazdálkodás és menedzsment szakán diplomáztam logisztika szakirányon.",
+      "temak": [
+        {
+          "cim": "Első téma",
+          "url": "https://www.momentum.hu",
+          "leiras": "[téma részletes leírása]"
+        },
+        {
+          "cim": "Második téma",
+          "url": "https://www.momentum.hu",
+          "leiras": "[téma részletes leírása]"
+        }
+      ]
     }
   ]
 }

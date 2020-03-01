@@ -40,17 +40,40 @@
                         <div>
                             <h5><a href="mailto:@kepviselo.Email">@kepviselo.Email</a></h5>
                         </div>
-                        </p>
+                    </p>
                     <p>
                         <div>
                             <h5>@kepviselo.Telefon</h5>
                         </div>
                     </p>
                 </div>
-                <div class="card-body text-left">
-                    <h6>@kepviselo.Eletrajz</h6>
+            </div>
+
+            <div class="card shadow mb-4">
+                <!-- Card Header - Accordion -->
+                <a href="#collapseCardEletrajz" class="d-block card-header py-3 collapsed" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseCardEletrajz">
+                    <h6 class="m-0 font-weight-bold text-primary">Életrajz</h6>
+                </a>
+                <!-- Card Content - Collapse -->
+                <div class="collapse" id="collapseCardEletrajz" style="">
+                    <div class="card-body text-left">
+                        <h6>@kepviselo.Eletrajz</h6>
+                    </div>
                 </div>
             </div>
+
+            @foreach (var tema in kepviselo.Temak)
+            {
+                <div class="card mb-4 py-3 border-left-primary">
+                    <div class="card-body text-left">
+                        <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                            <a href="@tema.Url" target="_blank">@tema.Cim</a>
+                        </div>
+                        <div>@tema.Leiras</div>
+                    </div>
+                </div>
+            }
+
         </div>
     </div>
         }        

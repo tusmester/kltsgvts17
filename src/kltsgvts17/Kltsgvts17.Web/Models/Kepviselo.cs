@@ -1,4 +1,6 @@
-﻿namespace Kltsgvts17.Web.Models
+﻿using System.Collections.Generic;
+
+namespace Kltsgvts17.Web.Models
 {
     public class Kepviselo
     {
@@ -9,5 +11,7 @@
         public string Telefon { get; set; }
         public string FacebookUrl { get; set; }
         public string Eletrajz { get; set; }
+
+        public List<Tema> Temak { get; set; }
     }
 }
